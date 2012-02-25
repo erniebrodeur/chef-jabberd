@@ -6,3 +6,8 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+package "ejabberd"
+
+jabber_compile_config
+
