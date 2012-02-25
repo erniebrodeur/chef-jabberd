@@ -1,4 +1,4 @@
-default[:jabber][:global][:loglevel] = 4
+default[:jabber][:global][:loglevel] = "4"
 default[:jabber][:global][:hosts] = ["localhost"]
 default[:jabber][:global][:language] = "en"
 default[:jabber][:global][:s2s_default] = "deny"
